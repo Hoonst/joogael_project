@@ -26,7 +26,7 @@ Flask==1.1.1
 future==0.18.2
 geos==0.2.2
 gspread==3.2.0
-httplib2==0.17.0
+httplib2==0.19.0
 hyperlink==19.0.0
 idna==2.8
 importlib-metadata==1.5.0
